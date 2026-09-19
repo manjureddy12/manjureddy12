@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Manju 👋
 
-<!--
-**manjureddy12/manjureddy12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer interested in backend development, Generative AI, and cloud-native applications.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C#, Python, JavaScript
+- **Backend:** .NET, FastAPI, REST APIs
+- **Frontend:** Angular
+- **Databases:** SQL Server, PostgreSQL
+- **Generative AI:** RAG, NLP, Transformers
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins
+- **Tools:** Git, GitHub
+
+### 🚀 Featured Projects
+
+- 🌍 **AQI Prediction API — Cloud-Native ML Deployment Platform**
+- 🤖 **Automated Meeting Minutes Generator with RAG**
+- 📰 **Fake News Mitigation Using Evolutionary Algorithms**
+- ✋ **AI Air Drawing Tool**
+
+### 🎯 Currently Learning
+
+- Backend development
+- Generative AI
+- RAG & AI-powered applications
+- Cloud-native development
