@@ -16,8 +16,7 @@ I'm a Software Engineer interested in backend development, Generative AI, and cl
 
 - 🌍 **AQI Prediction API — Cloud-Native ML Deployment Platform**
 - 🤖 **Automated Meeting Minutes Generator with RAG**
-- 📰 **Fake News Mitigation Using Evolutionary Algorithms**
-- ✋ **AI Air Drawing Tool**
+
 
 ### 🎯 Currently Learning
 
